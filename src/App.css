@@ -1,23 +1,13 @@
-*{
-  box-sizing: border-box;
-  font-family: 'Open Sans', sans-serif;
-}
-
-
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.center{
+.center {
   display: flex;
   justify-content: center;
 }
-.particles{
+
+.particles {
   position: fixed;
   top: 0;
   right: 0;
