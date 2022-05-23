@@ -1,6 +1,8 @@
 import React from 'react';
 import './imageFormLink.css';
 
+//background-color:  rgba(127, 127, 127, 0.3%);
+
 const ImageLinkForm = ({onInputChange, onButtonSubmit}) => {
     return (
         <div>
@@ -8,7 +10,7 @@ const ImageLinkForm = ({onInputChange, onButtonSubmit}) => {
                 This Magic Brain will detect faces in your pictures. Git it a try.
             </p>
             <div className='center'>
-                <div className='form'>
+                <div className='form-url'>
                     <input className='img-input' type='tex' onChange={onInputChange}/>
                     <button
                         className='btn-detect'
