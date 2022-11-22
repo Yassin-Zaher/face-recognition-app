@@ -8,6 +8,7 @@ Final project for web dev Bootcamp
 
 You can grab Clarifai API key [here](https://www.clarifai.com/)
 # About using the app
+a web application built with react that can detect human faces from an image uploaded by the user
 1. start the app (follow the start app steps)
 2. enter an image url 
 3. click on detect
