@@ -1,4 +1,5 @@
 # face recognition - v1
+This milestone project combines everything i have learned to build a real life machine learning face detection app with React, NodeJS, ExpressJS, PostgreSQL . .
 Final project for web dev Bootcamp
 
 1. Clone this repo
